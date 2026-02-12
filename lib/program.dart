@@ -111,6 +111,7 @@ class Program {
 
   static void _printHelp() {
     print('\x1B[33mReplacement for Pandemic Scriptmunge, targeted for linux/steamdeck use\x1B[0m');
+    print('\x1B[32mhttps://github.com/BAD-AL/scriptmunge_dart\x1B[0m');
     print('Packs lua source files (.lua) or pr-compiled lua files (.luac) into .script format for use in BF2 modding.');
     print('2 program usage styles are allowed, `simple` and `Pandemic` style');
     print('\x1B[32mSimple Style:\x1B[0m');
